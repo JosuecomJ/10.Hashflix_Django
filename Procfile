@@ -1,0 +1,1 @@
+web: gunicorn djangoflix.wsgi --log-file -
