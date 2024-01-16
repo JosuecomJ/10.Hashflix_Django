@@ -17,7 +17,7 @@
 <img lign="center" alt="Josué-Tailwind" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
-##### Link: https://projeto-hashflix.herokuapp.com/
+
 
 ------------
 
